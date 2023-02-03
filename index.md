@@ -5,4 +5,3 @@ Here are your damn prompts Owen.
 Test.
 
 {% link /February23/01.md %}
-{% post_url /February23/01 %}
