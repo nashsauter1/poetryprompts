@@ -1,33 +1,32 @@
 # The Poetry Prompts!
-Here are your damn prompts Owen.
+For Owen!
 
 ## February
-(February 01)[https://nashsauter1.github.io/poetryprompts/February23/01]
-(February 02)[https://nashsauter1.github.io/poetryprompts/February23/02]
-(February 03)[https://nashsauter1.github.io/poetryprompts/February23/03]
-(February 04)[https://nashsauter1.github.io/poetryprompts/February23/04]
-(February 05)[https://nashsauter1.github.io/poetryprompts/February23/05]
-(February 06)[https://nashsauter1.github.io/poetryprompts/February23/06]
-(February 07)[https://nashsauter1.github.io/poetryprompts/February23/07]
-(February 08)[https://nashsauter1.github.io/poetryprompts/February23/08]
-(February 09)[https://nashsauter1.github.io/poetryprompts/February23/09]
-(February 10)[https://nashsauter1.github.io/poetryprompts/February23/10]
-(February 11)[https://nashsauter1.github.io/poetryprompts/February23/11]
-(February 12)[https://nashsauter1.github.io/poetryprompts/February23/12]
-(February 13)[https://nashsauter1.github.io/poetryprompts/February23/13]
-(February 14)[https://nashsauter1.github.io/poetryprompts/February23/14]
-(February 15)[https://nashsauter1.github.io/poetryprompts/February23/15]
-(February 16)[https://nashsauter1.github.io/poetryprompts/February23/16]
-(February 17)[https://nashsauter1.github.io/poetryprompts/February23/17]
-(February 18)[https://nashsauter1.github.io/poetryprompts/February23/18]
-(February 19)[https://nashsauter1.github.io/poetryprompts/February23/19]
-(February 20)[https://nashsauter1.github.io/poetryprompts/February23/20]
-(February 21)[https://nashsauter1.github.io/poetryprompts/February23/21]
-(February 22)[https://nashsauter1.github.io/poetryprompts/February23/22]
-(February 23)[https://nashsauter1.github.io/poetryprompts/February23/23]
-(February 24)[https://nashsauter1.github.io/poetryprompts/February23/24]
-(February 25)[https://nashsauter1.github.io/poetryprompts/February23/25]
-(February 26)[https://nashsauter1.github.io/poetryprompts/February23/26]
-(February 27)[https://nashsauter1.github.io/poetryprompts/February23/27]
-(February 28)[https://nashsauter1.github.io/poetryprompts/February23/28]
-
+- [February 01](https://nashsauter1.github.io/poetryprompts/February23/01)
+- [February 02](https://nashsauter1.github.io/poetryprompts/February23/02)
+- [February 03](https://nashsauter1.github.io/poetryprompts/February23/03)
+- [February 04](https://nashsauter1.github.io/poetryprompts/February23/04)
+- [February 05](https://nashsauter1.github.io/poetryprompts/February23/05)
+- [February 06](https://nashsauter1.github.io/poetryprompts/February23/06)
+- [February 07](https://nashsauter1.github.io/poetryprompts/February23/07)
+- [February 08](https://nashsauter1.github.io/poetryprompts/February23/08)
+- [February 09](https://nashsauter1.github.io/poetryprompts/February23/09)
+- [February 10](https://nashsauter1.github.io/poetryprompts/February23/10)
+- [February 11](https://nashsauter1.github.io/poetryprompts/February23/11)
+- [February 12](https://nashsauter1.github.io/poetryprompts/February23/12)
+- [February 13](https://nashsauter1.github.io/poetryprompts/February23/13)
+- [February 14](https://nashsauter1.github.io/poetryprompts/February23/14)
+- [February 15](https://nashsauter1.github.io/poetryprompts/February23/15)
+- [February 16](https://nashsauter1.github.io/poetryprompts/February23/16)
+- [February 17](https://nashsauter1.github.io/poetryprompts/February23/17)
+- [February 18](https://nashsauter1.github.io/poetryprompts/February23/18)
+- [February 19](https://nashsauter1.github.io/poetryprompts/February23/19)
+- [February 20](https://nashsauter1.github.io/poetryprompts/February23/20)
+- [February 21](https://nashsauter1.github.io/poetryprompts/February23/21)
+- [February 22](https://nashsauter1.github.io/poetryprompts/February23/22)
+- [February 23](https://nashsauter1.github.io/poetryprompts/February23/23)
+- [February 24](https://nashsauter1.github.io/poetryprompts/February23/24)
+- [February 25](https://nashsauter1.github.io/poetryprompts/February23/25)
+- [February 26](https://nashsauter1.github.io/poetryprompts/February23/26)
+- [February 27](https://nashsauter1.github.io/poetryprompts/February23/27)
+- [February 28](https://nashsauter1.github.io/poetryprompts/February23/28)
